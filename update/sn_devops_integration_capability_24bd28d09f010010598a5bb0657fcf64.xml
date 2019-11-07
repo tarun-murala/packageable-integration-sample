@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_devops_integration_capability">
+    <sn_devops_integration_capability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <capability display_value="Configure">4f39fa45536000107109ddeeff7b12c5</capability>
+        <sub_flow_name>sn_pi_sample.ConfigurePISubflow</sub_flow_name>
+        <sys_class_name>sn_devops_integration_capability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-07 01:59:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>24bd28d09f010010598a5bb0657fcf64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_pi_sample.ConfigurePISubflow</sys_name>
+        <sys_package display_value="pi_sample" source="sn_pi_sample">0bfc68909f010010598a5bb0657fcf7f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pi_sample">0bfc68909f010010598a5bb0657fcf7f</sys_scope>
+        <sys_update_name>sn_devops_integration_capability_24bd28d09f010010598a5bb0657fcf64</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-07 01:59:23</sys_updated_on>
+        <tool_integration display_value="PI Code">4b5d64d09f010010598a5bb0657fcfb1</tool_integration>
+        <tool_sys_class_name>sn_devops_code_tool</tool_sys_class_name>
+    </sn_devops_integration_capability>
+</record_update>

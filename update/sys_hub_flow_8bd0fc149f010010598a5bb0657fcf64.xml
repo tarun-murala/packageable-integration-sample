@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>discoverpisubflow</internal_name>
+        <label_cache>[{"name":"subflow.current","label":"Input➛current","reference":"sn_devops_import_request","reference_display":"Import Request","type":"reference","base_type":"reference","column_name":""},{"name":"2598ffb5-c158-4af9-ae12-8f290a405886.discoverpayload","label":"2➛discoverpayload_action","reference_display":"discoverpayload_action","type":"string","base_type":"string"},{"name":"subflow.current.number","label":"Input➛current➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"sn_devops_import_request","column_name":"number"}]</label_cache>
+        <latest_snapshot>d765b4949f010010598a5bb0657fcf78</latest_snapshot>
+        <master_snapshot>d765b4949f010010598a5bb0657fcf78</master_snapshot>
+        <name>DiscoverPISubflow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>system</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-07 02:13:13</sys_created_on>
+        <sys_id>8bd0fc149f010010598a5bb0657fcf64</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>DiscoverPISubflow</sys_name>
+        <sys_package display_value="pi_sample" source="sn_pi_sample">0bfc68909f010010598a5bb0657fcf7f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pi_sample">0bfc68909f010010598a5bb0657fcf7f</sys_scope>
+        <sys_update_name>sys_hub_flow_8bd0fc149f010010598a5bb0657fcf64</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-07 02:33:11</sys_updated_on>
+        <type>subflow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=8bd0fc149f010010598a5bb0657fcf64"/>
+    <sys_variable_value action="delete_multiple" query="document_key=8bd0fc149f010010598a5bb0657fcf64"/>
+</record_update>

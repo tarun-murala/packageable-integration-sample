@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>8bd0fc149f010010598a5bb0657fcf64</id>
+        <name>DiscoverPISubflow</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-07 02:13:13</sys_created_on>
+        <sys_id>47d0fc149f010010598a5bb0657fcf65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DiscoverPISubflow</sys_name>
+        <sys_package display_value="pi_sample" source="sn_pi_sample">0bfc68909f010010598a5bb0657fcf7f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pi_sample">0bfc68909f010010598a5bb0657fcf7f</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_47d0fc149f010010598a5bb0657fcf65</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-07 02:13:13</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>
